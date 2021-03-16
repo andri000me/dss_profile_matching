@@ -1,2 +1,1 @@
-# dss_profile_matching
-# dss_profile_matching
+Aplikasi Penerimaan Pegawai menggunakan Sistem pengambilan keputusan dengan metode profile matching
